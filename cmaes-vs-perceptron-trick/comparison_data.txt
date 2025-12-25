@@ -1,0 +1,15 @@
+start of percention trick training
+0.83 (accuracy after 100 epochs)
+
+cmaes-test.py
+Gen   0 | accuracy = 0.5600
+Gen  20 | accuracy = 0.9700
+Gen  40 | accuracy = 0.9700
+Gen  60 | accuracy = 0.9700
+Gen  80 | accuracy = 0.9700
+Gen 100 | accuracy = 0.9700
+Gen 120 | accuracy = 0.9700
+Gen 140 | accuracy = 0.9700
+Gen 160 | accuracy = 0.9700
+Gen 180 | accuracy = 0.9700
+0.97 (accuracy after 200 generation)
